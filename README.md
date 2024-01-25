@@ -12,7 +12,7 @@
 ---
 
 ### `config` configuring the bot to run
-- You need to change the BOT_TOKEN to your token in the `main.env` file
+- You need to change the `BOT_TOKEN` to your token in the `main.env` file
 
 ---
 
