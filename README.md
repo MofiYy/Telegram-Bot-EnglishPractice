@@ -20,4 +20,4 @@
 - Install Python (recommend [3.11](https://www.python.org/downloads/release/python-3116/))
 - Install Poetry [Instructions](https://python-poetry.org/docs/#installing-with-the-official-installer)
 - Go to the `poetry` section with the bot and write `poetry init`
-- And now launch the bot using the command: `poetry run python -00 src` or `python __main__.py`
+- And now launch the bot using the command: `poetry run python -00 src` or `python -OO __main__.py`
